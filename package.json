@@ -1,6 +1,6 @@
 {
   "name": "monsters-search",
-  "homepage": "https://DEmosus.github.io/monster-search",
+  "homepage": "https://DEmosus.github.io/monster-search-typescript",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
